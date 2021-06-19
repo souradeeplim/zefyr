@@ -1,5 +1,0 @@
-.*
-!.gitignore
-
-lib/generated_plugin_registrant.dart
-build/
